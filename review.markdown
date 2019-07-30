@@ -1,4 +1,4 @@
-<h6>A Novel Deep Neural Network Architecture for Mars Visual Navigation</h6>
+<h4>A Novel Deep Neural Network Architecture for Mars Visual Navigation</h6>
 
 *Jiang Zhang, Yuanqing Xia, Ganghui Shen*
 
