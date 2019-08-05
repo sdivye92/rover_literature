@@ -19,7 +19,7 @@ output: html5_document
 
 <center>
 
-![](/home/slam/Documents/Colab_bot/Literature/img1.png "DB-Net")
+![](./img1.png "DB-Net")
 
 </center>
 
@@ -59,6 +59,6 @@ output: html5_document
 
 <center>
 
-![](/home/slam/Documents/Colab_bot/Literature/value_func.png "Value function")
+![](./value_func.png "Value function")
 
 </center>
